@@ -1,0 +1,5 @@
+# ninja log v5
+0	5180	0	src/helloaccessory.o	2d07ad28d7f51809
+2	551	0	src/helloaccessory.o	714109a84d08e107
+5	640	0	src/sap.o	e277297741abf089
+641	7156	0	helloaccessoryprovider	90867b7ba8bde1ba
